@@ -1,0 +1,6 @@
+day, month, year, name
+10, 12, 1997, Sarah
+4, 11, 1999, Katherine
+28, 4, 1964, Rich
+24, 11, 1963, Martha
+22, 7, 1998, Scott
